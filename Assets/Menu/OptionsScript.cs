@@ -7,15 +7,6 @@ public class OptionsScript : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("Menu2");
-    }
-
-    public void QuitGame()
-    {
-#if UNITY_EDITOR
-        UnityEditor.EditorApplication.isPlaying = false;
-#else
-        Application.Quit();
-#endif
+        SceneManager.LoadScene("Menu");
     }
 }
