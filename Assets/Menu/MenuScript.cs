@@ -10,6 +10,11 @@ public class MenuScript : MonoBehaviour
         SceneManager.LoadScene("Menu2");
     }
 
+    public void Options()
+    {
+        SceneManager.LoadScene("Options");
+    }
+
     public void QuitGame()
     {
 #if UNITY_EDITOR
