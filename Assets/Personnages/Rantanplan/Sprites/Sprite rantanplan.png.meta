@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: c63237cff41b610449d83f2119c6f207
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6138713369874542918
+    second: Sprite rantanplan_0
+  - first:
+      213: 1535404456452280980
+    second: Sprite rantanplan_1
+  - first:
+      213: 3288461538143127945
+    second: Sprite rantanplan_2
+  - first:
+      213: -7340691524349752178
+    second: Sprite rantanplan_3
+  - first:
+      213: 1028742097947405163
+    second: Sprite rantanplan_4
+  - first:
+      213: -1939724562826974185
+    second: Sprite rantanplan_5
+  - first:
+      213: -6113429944482858997
+    second: Sprite rantanplan_6
+  - first:
+      213: -2322201033917854383
+    second: Sprite rantanplan_7
+  - first:
+      213: 6237675477704652802
+    second: Sprite rantanplan_8
+  - first:
+      213: 6233433525821733936
+    second: Sprite rantanplan_9
+  - first:
+      213: -2750005997051855123
+    second: Sprite rantanplan_10
+  - first:
+      213: 1413055533298196812
+    second: Sprite rantanplan_11
+  - first:
+      213: -2364272776109032632
+    second: Sprite rantanplan_12
+  - first:
+      213: 3542873665743833499
+    second: Sprite rantanplan_13
+  - first:
+      213: 2180664604538751271
+    second: Sprite rantanplan_14
+  - first:
+      213: 4789397251917249928
+    second: Sprite rantanplan_15
+  - first:
+      213: -7614901244772137170
+    second: Sprite rantanplan_16
+  - first:
+      213: -2671679286319976870
+    second: Sprite rantanplan_17
+  - first:
+      213: -7665136364144329552
+    second: Sprite rantanplan_18
+  - first:
+      213: 5063182051353959110
+    second: Sprite rantanplan_19
+  - first:
+      213: -5858602261358110195
+    second: Sprite rantanplan_20
+  - first:
+      213: -2534995686786923462
+    second: Sprite rantanplan_21
+  - first:
+      213: -2591583362603410754
+    second: Sprite rantanplan_22
+  - first:
+      213: -351071223600801465
+    second: Sprite rantanplan_23
+  - first:
+      213: 8709407359068320725
+    second: Sprite rantanplan_24
+  - first:
+      213: 1790512445083271565
+    second: Sprite rantanplan_25
+  - first:
+      213: 1947235285643162120
+    second: Sprite rantanplan_26
+  - first:
+      213: 6677982963247653024
+    second: Sprite rantanplan_27
+  - first:
+      213: -6672088145563930377
+    second: Sprite rantanplan_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite rantanplan_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 224
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c57ab8b1713144a63be1e7a7b679c
+      internalID: 6138713369874542918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7315c33819d623408035a179bee2c99
+      internalID: 1535404456452280980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 230
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4b48060fb2f7547aa3b52d7b61f9f4
+      internalID: 3288461538143127945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 224
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f449ab1d7f41cf43b86f35bcf41107d
+      internalID: -7340691524349752178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 224
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bdea105dbbe34448c5332ea75e81c3
+      internalID: 1028742097947405163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16adac1a3d3e36b469da2b587900c16b
+      internalID: -1939724562826974185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 229
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6ddf1a6fd4b34b90417c8eb965c80
+      internalID: -6113429944482858997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 224
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d57f365d4986a49b8360c3f45e65bb
+      internalID: -2322201033917854383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 167
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1083a84475c504582989ed7d17206f
+      internalID: 6237675477704652802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 167
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d427d52954c3b8d4498611b69d0c10b3
+      internalID: 6233433525821733936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 167
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6e03094efff5741b55d4aedd0066d5
+      internalID: -2750005997051855123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 167
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021cbe54341dd9841a2438f065a512ed
+      internalID: 1413055533298196812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 167
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6213fd1f20eeb44bec59df35b5363a
+      internalID: -2364272776109032632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_13
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 167
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e302e8a09748dd646ba77c5b7a55f96d
+      internalID: 3542873665743833499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 167
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e08a86766b14eb45b6467a2a22b6a21
+      internalID: 2180664604538751271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 168
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da7b87a389f2314db061a546d7e68be
+      internalID: 4789397251917249928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 109
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36524aac7e2b27f45a68eebda136fda7
+      internalID: -7614901244772137170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 118
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53433cd7c7918648b78761338093d62
+      internalID: -2671679286319976870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 113
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862cc08d9a0c2834c92098a7d7c4309a
+      internalID: -7665136364144329552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 103
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5933fa54ed8edd54dbb1e0ccb6029e77
+      internalID: 5063182051353959110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 111
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1307e0a99a994ec44ae4e7476132e3fa
+      internalID: -5858602261358110195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 123
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e40e70d929371f4183ff958b7159675
+      internalID: -2534995686786923462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 28
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e02dbe8aded1f4b9fabaa3f5d0c0ac
+      internalID: -2591583362603410754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 22
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9529638b288794d489f5511ad16b7d83
+      internalID: -351071223600801465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 29
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d40bd534872e4086b43039498ea04
+      internalID: 8709407359068320725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 35
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb40090c73638d4e8962f8670f78cee
+      internalID: 1790512445083271565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 26
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810eda6533b8c74880cfeace8caeaac
+      internalID: 1947235285643162120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_27
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 26
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282271e5e1bb6ad4aa584e7e06290d66
+      internalID: 6677982963247653024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite rantanplan_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 29
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ed6b75b075a7a408a2d128c04f1af4
+      internalID: -6672088145563930377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
